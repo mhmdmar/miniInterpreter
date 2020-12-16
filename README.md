@@ -12,7 +12,7 @@ printAll<br>
 
 # variables
 c1...c5
-# command examples
+# commands examples
 add c1 5<br>
 sub c3 20<br>
 print c1<br>
