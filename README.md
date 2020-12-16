@@ -25,7 +25,7 @@ if 1 argument is given to the process then it will read the argument as the inpu
 if 2 argument is given to the process then it will read the first argument as the input text and the second argument as the output text
 
 # arguments examples
-deno run index.tx
-deno run --allow-read index.ts ./input.txt
-deno run --allow-read --allow-write index.ts ./input.txt ./output.txt  
+deno run index.tx<br>
+deno run --allow-read index.ts ./input.txt<br>
+deno run --allow-read --allow-write index.ts ./input.txt ./output.txt<br>
 deno run --allow-all index.ts ./input.txt ./output.txt  
