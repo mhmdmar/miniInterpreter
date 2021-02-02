@@ -1,0 +1,5 @@
+add c1 5
+sub c3 20
+print c1
+mul c2 5
+printAll
