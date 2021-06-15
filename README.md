@@ -20,9 +20,9 @@ mul c2 5<br>
 printAll
 
 # process arguments
-if no arguments is given to the process then it will take input from user and print it to the console
-if 1 argument is given to the process then it will read the argument as the input text
-if 2 argument is given to the process then it will read the first argument as the input text and the second argument as the output text
+No arguments are given to the process then it will take input from the user and print it to the console.
+1 argument is given to the process then it will read the argument as the input text.
+2 arguments is given to the process then it will read the first argument as the input text and the second argument is the output text.
 
 # arguments examples
 deno run index.tx<br>
