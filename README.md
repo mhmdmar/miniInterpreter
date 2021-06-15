@@ -20,8 +20,8 @@ mul c2 5<br>
 printAll
 
 # process arguments
-No arguments are given to the process then it will take input from the user and print it to the console.
-1 argument is given to the process then it will read the argument as the input text.
+No arguments are given to the process then it will take input from the user and print it to the console.<br>
+1 argument is given to the process then it will read the argument as the input text.<br>
 2 arguments is given to the process then it will read the first argument as the input text and the second argument is the output text.
 
 # arguments examples
