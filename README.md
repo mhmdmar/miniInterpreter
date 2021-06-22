@@ -1,5 +1,5 @@
 # miniInterpreter
-Mini interpreter for simple custom commands using Deno (typescript)
+Mini interpreter for simple custom commands using Typescript(Deno)
 
 # commands
 add<br>
